@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mohamed Eid! 👋
+# Hi there, I'm Mohamed Nabih! 👋
 
 ## Back-End Developer | Node.js 📱
 
@@ -8,7 +8,7 @@ Welcome to my vibrant coding space! 🚀 I'm enthusiastic about web development 
 
 ## Skills 🛠️
 
-- **Languages:** C, C++, Java, express, nest
+- **Languages:** C, C++, Java, express, nest , react
 - **Web Technologies:** HTML, CSS, JavaScript, TypeScript, JSON
 - **Data Structures & Algorithms 🧠**
 - **Database:** MySQL , PostgreSQL , MongoDB
